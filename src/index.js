@@ -18,7 +18,8 @@ export default {
 		  {
 			messages: [
 			  { role: 'user', content: requestBody.dateIdeaRequest }
-			]
+			],
+			format: 'json'
 		  }
 		)
 		console.log('Answer:', answer)
