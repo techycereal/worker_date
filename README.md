@@ -2,7 +2,7 @@
 ## Overview
 A web application that generates personalized date ideas based on user input, utilizing Cloudflare's LLaMA AI model and Workers platform.
 ## Repository
-Part of the `mydates` repository: https://github.com/techycereal/mydates
+Part of the `mydates` repository: (https://github.com/techycereal/dateideas)
 ## Technologies Used
 * Cloudflare Workers
 * LLaMA AI model
